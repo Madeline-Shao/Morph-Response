@@ -1,3 +1,4 @@
+%@author: Madeline Shao
 %% Recording Morph Response
 % This is an experiment about face perception. You are going to complete
 % the part of allowing participants to move and click the mouse (x
